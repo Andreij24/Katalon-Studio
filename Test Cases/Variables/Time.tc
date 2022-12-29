@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Time</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>233fcf75-35fa-4141-8aec-dcddc796a47e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>be07013a-8eff-4151-9108-98d2b28a1368</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'empty'</defaultValue>
+      <description></description>
+      <id>be07013a-8eff-4151-9108-98d2b28a1368</id>
+      <masked>false</masked>
+      <name>testcaseAlertText</name>
+   </variable>
+</TestCaseEntity>

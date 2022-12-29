@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Test - Manual Mode Data Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ebf048b-e07e-4ed9-b215-eff4cfaf15c0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>87d7a656-6674-4f4f-8ec6-42a2c4ca55ed</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2efffab8-13c1-47bc-ba2b-8bf0c0900c37</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description></description>
+      <id>87d7a656-6674-4f4f-8ec6-42a2c4ca55ed</id>
+      <masked>false</masked>
+      <name>tcUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>2efffab8-13c1-47bc-ba2b-8bf0c0900c37</id>
+      <masked>false</masked>
+      <name>tcPassword</name>
+   </variable>
+</TestCaseEntity>

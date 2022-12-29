@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_katalon-demo-cura - Website/Page_KatalonWebsite/a_Make Appointment_NEW",
+      "brokenLocator": "Screenshots/Targets/Make Appointment/a_Make Appointment.png",
+      "brokenLocatorMethod": "IMAGE",
+      "proposedLocator": "//a[@id\u003d\u0027btn-make-appointment\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_katalon-demo-cura - Website/Page_KatalonWebsite/a_Make Appointment_NEW_XPATH.png"
+    }
+  ]
 }

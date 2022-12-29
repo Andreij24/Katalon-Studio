@@ -1,0 +1,48 @@
+{
+  "keywordFileContentHash": "9D2BB37AF369BE7A256DBB21E5760028",
+  "keywordClasses": [
+    {
+      "name": "automationpractice.User",
+      "keywordMethods": [
+        {
+          "name": "Login",
+          "parameters": [
+            {
+              "name": "username",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "password",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Login to CURA Healthcare Service\r\n\t * @param username for logging in\t\r\n\t * @param password for logging in\r\n\t */"
+        },
+        {
+          "name": "Logout",
+          "parameters": [],
+          "javadoc": "/**\r\n\t * Logout from CURA Healthcare Service\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
